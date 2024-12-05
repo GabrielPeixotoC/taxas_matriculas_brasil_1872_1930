@@ -2,7 +2,9 @@
 
 Abaixo estão destacados em verde os dados obtidos de Lopes (2024), os dados em negrito em 1907, 1920 e 1926 são oriundos de fontes da época, conforme descrito no trabalho. 
 
-Os dados intermediários são interpolados linearmente.
+Os dados intermediários são interpolados linearmente, conforme abaixo:
+
+$\sqrt{3x-1}+(1+x)^2$
 
 Var Anual matrículas = \delta matrículas/ \delta anos
 
