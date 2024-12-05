@@ -4,9 +4,7 @@ Abaixo estão destacados em verde os dados obtidos de Lopes (2024), os dados em 
 
 Os dados intermediários são interpolados linearmente, conforme abaixo:
 
-$\sqrt{3x-1}+(1+x)^2$
-
-Var Anual matrículas = \delta matrículas/ \delta anos
+$Var Anual matrículas = \delta matrículas/ \delta anos$
 
 matriculas ano x + i = var. anual matrículas * i + matriculas em x-i
 
