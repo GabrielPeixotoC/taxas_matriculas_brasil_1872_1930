@@ -7,7 +7,9 @@ Os dados intermediários são interpolados linearmente, conforme abaixo:
 
 
 $\Delta Matrículas =  \frac{Proxima Matrícula Disponível - Última Matrícula Disponível }{Próximo Ano com Matrículas Disponível - Último Ano com Matrículas Disponível}$
-$\Delta Matrículas = \frac{\Delta Matrículas}{\Delta Anos}
+
+
+$\Delta Matrículas = \frac{\Delta Matrículas}{\Delta Anos}$
 
 $Matrículas Ano  X =  Matrículas Ano_(x-1) + \Delta Matrículas$
 
