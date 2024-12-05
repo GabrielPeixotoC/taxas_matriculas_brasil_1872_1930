@@ -1,10 +1,10 @@
-# Teste
+#  A EXPANSÃO DAS TAXAS BRUTAS DE MATRÍCULAS NO BRASIL ENTRE 1872 E 1930
 
 Abaixo estão destacados em verde os dados obtidos de Lopes (2024), os dados em negrito em 1907, 1920 e 1926 são oriundos de fontes da época, conforme descrito no trabalho. 
 
 Os dados intermediários são interpolados linearmente, conforme abaixo:
 
-$Var\,Anual matrículas = \Delta matrículas/ \Delta anos$
+$Var\thinmuskipAnual matrículas = \Delta matrículas/ \Delta anos$
 
 matriculas\, ano x + i = var. anual matrículas * i + matriculas em x-i
 
